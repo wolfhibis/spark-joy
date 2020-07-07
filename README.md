@@ -168,6 +168,7 @@ More. Spacing. Please.
   - https://www.haleyfiege.fun/fonts
 - more opinions places
   - https://muffingroup.com/blog/best-free-fonts/
+  - https://qodeinteractive.com/magazine/google-font-combinations/
   - https://type-scale.com/
   - [6 ways to justify font choices in your designs](https://learnui.design/blog/justifying-font-choices.html)
 <details>
@@ -318,6 +319,8 @@ Don't forget them!
 - https://www.zondicons.com/
 - animated icons http://www.transformicons.com/builder.html
 - https://game-icons.net/
+- https://www.fontisto.com/icons 
+- https://boxicons.com/ - 1462 icons available in PNG and SVG formats, but you can also copy the icon’s code and paste it to your HTML.
 - brand icons
   - http://simpleicons.org/ icons for every brand like graphql, adobe xd, youtube, etc
   - https://css.gg/ 700+ Customizable & Retina-Ready app icons — entirely built in CSS 
@@ -390,6 +393,8 @@ Mocking your browser/phone
 - https://iradesign.io/
 - https://autodraw.com Google AI assisted drawing
 - https://hotpot.ai Free or paid. Create icons, app screenshots, MacBook/browser mockups, social media posts, and other graphics for mobile apps and browser extensions.
+- https://www.opendoodles.com/
+- https://mixkit.co/free-stock-art/
 
 ### DIY Graphic Design
 
@@ -408,6 +413,8 @@ Mocking your browser/phone
 - https://duotone.shapefactory.co/?f=f56468&t=27184f&q=_&i=oMpAz-DN-9I (unsplash with duotone filter)
 - https://github.com/neutraltone/awesome-stock-resources
 - https://allthefreestock.com/
+- https://pixabay.com/
+- https://picjumbo.com/
 
 
 ### Avatars
